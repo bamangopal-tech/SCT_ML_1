@@ -67,6 +67,7 @@ and bathrooms. The project demonstrates the complete machine learning
 workflow from data preprocessing to prediction and evaluation.
 
 #python code
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
